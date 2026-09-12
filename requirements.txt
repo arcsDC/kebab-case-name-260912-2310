@@ -1,0 +1,9 @@
+# Roblox Studio plugins are authored in Luau and run within the Roblox Studio runtime.
+# There are no external Python or system-level dependencies required for installation.
+# This file is provided for repository completeness and dependency tracking.
+#
+# Development dependencies (optional, for local linting/formatting):
+# - luau-lsp (https://github.com/JohnnyMorganz/luau-lsp)
+# - luau-analyze (https://github.com/luau-lang/luau)
+#
+# No runtime dependencies are installed via pip or other package managers.
